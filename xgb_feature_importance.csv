@@ -1,0 +1,16 @@
+Feature,Importance
+Geo_Code,0.19904895
+Building_Type,0.09386262
+is_old_building,0.06854171
+Settlement_U,0.06802923
+Date_of_Occupancy,0.06584436
+Residential,0.063201934
+YearOfObservation,0.06057225
+building_age,0.053574823
+building_dimension,0.04987911
+Garden_V,0.049852386
+Building_Fenced_V,0.047866985
+windows_per_area,0.047016054
+NumberOfWindows,0.04565561
+Insured_Period,0.04547247
+Building_Painted_V,0.041581348
